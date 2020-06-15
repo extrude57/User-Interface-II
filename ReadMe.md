@@ -6,9 +6,22 @@ The module challenge is the afternoon project or assignment that students work t
 
 ## Objectives
 
-- implement a CSS reset and understand why it’s important for cross-browser development
+- implement a CSS reset and understand why it’s important for cross-browser development. 
+
+    Resets are important because it gives a default value to 
+    other elements that may not be in use but could still have an affect on the elements being devloped. 
+
 - identify and explain all properties in the box model
+
+    Padding - Space within
+    Width - Width of the element, Height - Height of the element, margin - the outside space after the elements size ends. 
+
+
 - describe and understand that flexbox is a module
+
+    Flexbox is a convient module that will help position items by default. 
+
+    
 - demonstrate understanding of flex container properties in flex box
 
 ## Introduction
